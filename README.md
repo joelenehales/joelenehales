@@ -22,3 +22,7 @@ I'm currently an undergraduate student studying astrophysics and computer scienc
   <!--- Linux -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
+
+### Contact
+
+You can reach me by email at [joelenehales@bell.net](mailto:joelenehales@bell.net)! 📬
