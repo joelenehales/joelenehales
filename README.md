@@ -25,4 +25,4 @@ I'm currently an undergraduate student studying astrophysics and computer scienc
 
 ### Contact
 
-You can reach me by email at [joelenehales@bell.net](mailto:joelenehales@bell.net)! 📬
+The best way to reach me is by email at [joelenehales@bell.net](mailto:joelenehales@bell.net)! 📬
