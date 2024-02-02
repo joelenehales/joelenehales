@@ -3,7 +3,7 @@
 I'm currently an undergraduate student studying astrophysics and computer science at Western University in Ontario, Canada. 👩‍💻
 
 - 🔭 I’ve spent the past 2.5 years developing software for astronomical data analysis, ranging from interstellar molecules to galaxies!
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: database management
 - ✨ Fun fact: In the winter, my family runs an ice fishing business on Lake Simcoe (which you can check out [here](https://www.facebook.com/TimHalesFishHuts/)! 🐟)
 
 ### Languages and Developer Tools
@@ -25,6 +25,8 @@ I'm currently an undergraduate student studying astrophysics and computer scienc
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" **alt="HTML" width="40" height="40"/>
   <!--- CSS --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" **alt="CSS" width="40" height="40"/>
+  <!--- JavaScript -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
 </div>
 
 ### Contact
