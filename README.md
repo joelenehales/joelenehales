@@ -1,9 +1,10 @@
 ### Hi, I'm Joelene! 👋
 
-I'm currently an undergraduate student studying astrophysics and computer science at Western University in Ontario, Canada. 👩‍💻
+I'm an undergraduate student studying astrophysics and computer science at Western University in Ontario, Canada. 👩‍💻
 
-- 🔭 I’ve spent the past 2.5 years developing software for astronomical data analysis, ranging from interstellar molecules to galaxies!
-- 🌱 I’m currently learning: SQL
+- 🔭 I have ~2.5 years of experience developing software for scientific applications
+- 🛰️ I've recently started an internship with the Science & Systems team at GHGSat
+- 🌱 I’m currently learning: Flutter
 - ✨ Fun fact: In the winter, my family runs an ice fishing business on Lake Simcoe (which you can check out [here](https://www.facebook.com/TimHalesFishHuts/)! 🐟)
 
 ### Languages and Developer Tools
@@ -27,6 +28,8 @@ I'm currently an undergraduate student studying astrophysics and computer scienc
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" **alt="CSS" width="40" height="40"/>
   <!--- JavaScript -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
+  <!--- SQL -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
 </div>
 
 ### Contact
