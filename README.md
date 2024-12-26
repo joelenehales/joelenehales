@@ -3,7 +3,7 @@
 I'm an undergraduate student studying astrophysics and computer science at Western University in Ontario, Canada. 👩‍💻
 
 - 🔭 I have ~2.5 years of experience developing software for scientific applications
-- 🛰️ Currently on an internship with the Science & Systems team at [GHGSat](https://www.ghgsat.com/en/)
+- 🛰️ Currently on an internship with the Toolchain Software team at [GHGSat](https://www.ghgsat.com/en/)
 - 🌱 I’m currently learning: Flutter
 - ✨ Fun fact: In the winter, my family runs an ice fishing business on Lake Simcoe (which you can check out [here](https://www.facebook.com/TimHalesFishHuts/)! 🐟)
 
